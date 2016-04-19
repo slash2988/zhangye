@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class MainServlet extends HttpServlet {
-
+    private int i=1;
 	/**
 	 *
 	 * This method is called when a form has its tag value method equals to get.
